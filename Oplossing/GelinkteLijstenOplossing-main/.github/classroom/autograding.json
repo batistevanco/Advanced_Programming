@@ -1,0 +1,34 @@
+{
+  "tests": [
+    {
+      "name": "SingleLinkedSongListTest",
+      "setup": "",
+      "run": "mvn test -Dtest=SingleLinkedSongListTest",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "SingleLinkedSongListWithTailTest",
+      "setup": "",
+      "run": "mvn test -Dtest=SingleLinkedSongListWithTailTest",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "DoublyLinkedStationListTest",
+      "setup": "",
+      "run": "mvn test -Dtest=DoublyLinkedStationListTest",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    }
+  ]
+}
